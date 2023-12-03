@@ -3,29 +3,29 @@
         {
             "type": "bitmap",
             "file": "minecraft:bughunting/1_bugs_found.png",
-            "ascent": 50,
-            "height": 50,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:bughunting/3_bugs_found.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:bughunting/5_bugs_found.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:bughunting/alpha_tester.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE004"]
         }
     ]
