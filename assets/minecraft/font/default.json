@@ -55,6 +55,34 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/team_red.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/team_blue.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/team_yellow.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/team_green.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE012"]
         }
     ]
 }
