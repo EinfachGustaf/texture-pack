@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/paper"
+		"layer0": "item/green_banner"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/green_banner/1" }
