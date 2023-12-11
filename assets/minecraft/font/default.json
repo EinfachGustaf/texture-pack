@@ -27,6 +27,34 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/bedrockbattle_crits.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/bedrockbattle_kills.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/bedrockbattle_mining.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:bedrock_battle/bedrockbattle_place.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE008"]
         }
     ]
 }
