@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/yellow_banner/1"
+		"layer0": "item/paper/5"
 	}
 }
