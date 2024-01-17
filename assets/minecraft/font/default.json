@@ -83,6 +83,83 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uE012"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/shark.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE013"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/founder.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE014"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE015"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/moderator.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE016"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/creativity.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE017"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/builder.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE018"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/starfish.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE019"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/media.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE020"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/poseidon.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE021"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/ocean.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE022"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:ranks/kelp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE023"]
         }
     ]
 }
