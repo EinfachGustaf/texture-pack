@@ -181,6 +181,13 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uE026"]
-        }
+    },
+    {
+            "type": "bitmap",
+            "file": "einfachgustaf-lobby:bg_navigator.png",
+            "ascent": 10,
+            "height": 256,
+            "chars": ["\uE027"]
+    }
     ]
 }
