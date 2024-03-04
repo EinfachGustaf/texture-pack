@@ -2,182 +2,182 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:bughunting/1_bugs_found.png",
+            "file": "einfachgustaf-bughunting:1_bugs_found.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bughunting/3_bugs_found.png",
+            "file": "einfachgustaf-bughunting:3_bugs_found.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bughunting/5_bugs_found.png",
+            "file": "einfachgustaf-bughunting:5_bugs_found.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bughunting/alpha_tester.png",
+            "file": "einfachgustaf-bughunting:alpha_tester.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/bedrockbattle_crits.png",
+            "file": "einfachgustaf-bedrockbattle:bedrockbattle_crits.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE005"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/bedrockbattle_kills.png",
+            "file": "einfachgustaf-bedrockbattle:bedrockbattle_kills.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE006"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/bedrockbattle_mining.png",
+            "file": "einfachgustaf-bedrockbattle:bedrockbattle_mining.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE007"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/bedrockbattle_place.png",
+            "file": "einfachgustaf-bedrockbattle:bedrockbattle_place.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE008"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/team_red.png",
+            "file": "einfachgustaf-bedrockbattle:team_red.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE009"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/team_blue.png",
+            "file": "einfachgustaf-bedrockbattle:team_blue.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE010"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/team_yellow.png",
+            "file": "einfachgustaf-bedrockbattle:team_yellow.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE011"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:bedrock_battle/team_green.png",
+            "file": "einfachgustaf-bedrockbattle:team_green.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE012"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/shark.png",
+            "file": "einfachgustaf-global:ranks/shark.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE013"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/founder.png",
+            "file": "einfachgustaf-global:ranks/founder.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE014"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/admin.png",
+            "file": "einfachgustaf-global:ranks/admin.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE015"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/moderator.png",
+            "file": "einfachgustaf-global:ranks/moderator.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE016"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/creativity.png",
+            "file": "einfachgustaf-global:ranks/creativity.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE017"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/builder.png",
+            "file": "einfachgustaf-global:ranks/builder.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE018"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/starfish.png",
+            "file": "einfachgustaf-global:ranks/starfish.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE019"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/media.png",
+            "file": "einfachgustaf-global:ranks/media.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE020"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/poseidon.png",
+            "file": "einfachgustaf-global:ranks/poseidon.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE021"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/ocean.png",
+            "file": "einfachgustaf-global:ranks/ocean.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE022"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/kelp.png",
+            "file": "einfachgustaf-global:ranks/kelp.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE023"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/contributor.png",
+            "file": "einfachgustaf-global:ranks/contributor.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE024"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/partner.png",
+            "file": "einfachgustaf-global:ranks/partner.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE025"]
 	},
 	{
             "type": "bitmap",
-            "file": "minecraft:ranks/developer.png",
+            "file": "einfachgustaf-global:ranks/developer.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE026"]
