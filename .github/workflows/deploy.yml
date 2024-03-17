@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master  # Adjust this branch name if needed
+      - dev/restructure
 
 jobs:
   build:
