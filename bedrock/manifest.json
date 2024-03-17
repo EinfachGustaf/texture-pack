@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "EinfachGustaf.live textures",
+        "name": "EinfachGustaf.live",
+        "uuid": "79b521a7-a7fe-487e-87a9-1a6918c27536",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 70 ]
+    },
+    "modules": [
+        {
+            "description": "EinfachGustaf.live textures",
+            "type": "resources",
+            "uuid": "2f5f54eb-d3c7-4e00-8098-f36668e0d1e4",
+            "version": [0, 0, 1]
+        }
+    ]
+}
